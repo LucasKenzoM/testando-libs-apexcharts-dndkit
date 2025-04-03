@@ -379,7 +379,7 @@
         </mxCell>
         <mxCell id="gJPejOsy9dFF1rbJm-w0-143" value="N" style="resizable=0;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" parent="gJPejOsy9dFF1rbJm-w0-142" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="25" as="offset" />
+            <mxPoint x="3" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gJPejOsy9dFF1rbJm-w0-144" value="1" style="resizable=0;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" parent="gJPejOsy9dFF1rbJm-w0-142" connectable="0" vertex="1">
